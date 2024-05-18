@@ -15,9 +15,9 @@ function processArray(numbers) {
 }
 
 // Example usage:
-const inputNumbers = [1, 2, 3, 4, 5];
+const inputNumbers = [2, 4, 6, 7, 8];
 const processedNumbers = processArray(inputNumbers);
-console.log(processedNumbers); // Output: [3, 4, 9, 16, 15]
+console.log(processedNumbers); 
 
 
 
